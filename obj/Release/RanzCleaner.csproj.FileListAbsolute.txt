@@ -1,0 +1,10 @@
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\obj\Release\RanzCleaner.Form1.resources
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\obj\Release\RanzCleaner.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\obj\Release\RanzCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\obj\Release\RanzCleaner.csprojAssemblyReference.cache
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\bin\Release\RanzCleaner.exe.config
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\bin\Release\RanzCleaner.exe
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\bin\Release\RanzCleaner.pdb
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\obj\Release\RanzCleaner.Properties.Resources.resources
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\obj\Release\RanzCleaner.exe
+C:\Users\Andre\source\repos\RanzCleaner\RanzCleaner\obj\Release\RanzCleaner.pdb
